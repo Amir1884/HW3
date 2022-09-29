@@ -1,0 +1,94 @@
+h1 {
+    position: absolute;
+    width: 365px;
+    height: 93px;
+    left: 124px;
+    top: 91px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+    color: #000000;
+}
+p {
+    position: absolute;
+    width: 662px;
+    height: 374px;
+    left: 141px;
+    top: 191px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;
+    color: #000000;
+}
+.image {
+    position: absolute;
+width: 314px;
+height: 315px;
+left: 1002px;
+top: 196px;
+
+background: url(_1.png);
+}
+.image1 {
+    position: absolute;
+width: 232px;
+height: 203px;
+left: 124px;
+top: 670px;
+
+background: url(photo.png);
+}
+.gzt {
+    display: flex;
+    list-style: none;
+}
+.zanit {
+    position: absolute;
+width: 150px;
+height: 39px;
+left: 488px;
+top: 740px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 130%;
+color: #000000;
+}
+.saat {
+    position: absolute;
+width: 150px;
+height: 39px;
+left: 733px;
+top: 740px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 130%;
+color: #000000;
+}
+.nedeli {
+    position: absolute;
+width: 150px;
+height: 39px;
+left: 976px;
+top: 740px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 130%;
+color: #000000;
+}
+.class {
+    display: flex;
+    list-style: none;
+}
